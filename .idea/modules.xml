@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jwtauth/jwtauth.iml" filepath="$PROJECT_DIR$/jwtauth/jwtauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/summer_trainee_exercise.iml" filepath="$PROJECT_DIR$/summer_trainee_exercise.iml" />
+    </modules>
+  </component>
+</project>
