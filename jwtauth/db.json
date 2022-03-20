@@ -1,0 +1,54 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "name": "Intercity 68",
+      "destination": "Tampere",
+      "speed": 99,
+      "coordinates": [
+        44.5,
+        33.3
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Intercity 66",
+      "destination": "Turku",
+      "speed": 65.3,
+      "coordinates": [
+        55.5939,
+        29.1535
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Intercity 343",
+      "destination": "Helsinki",
+      "speed": 47.4,
+      "coordinates": [
+        33.5225,
+        44.1135
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Intercity 654",
+      "destination": "Tampere",
+      "speed": 99.5,
+      "coordinates": [
+        60.5039,
+        25.1335
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Intercity 3",
+      "destination": "Tampere",
+      "speed": 65.3,
+      "coordinates": [
+        60.5039,
+        25.1335
+      ]
+    }
+  ]
+}
